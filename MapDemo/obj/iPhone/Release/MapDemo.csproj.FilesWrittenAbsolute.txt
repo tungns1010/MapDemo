@@ -1,0 +1,9 @@
+/Users/TungNS/Desktop/MapDemo/MapDemo/obj/iPhone/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/TungNS/Desktop/MapDemo/MapDemo/obj/iPhone/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/TungNS/Desktop/MapDemo/MapDemo/obj/iPhone/Release/actool/_PartialAppManifest.items
+/Users/TungNS/Desktop/MapDemo/MapDemo/obj/iPhone/Release/actool/_BundleResourceWithLogicalName.items
+/Users/TungNS/Desktop/MapDemo/MapDemo/obj/iPhone/Release/optimized/monkey.png
+/Users/TungNS/Desktop/MapDemo/MapDemo/obj/iPhone/Release/optimized/Default-568h@2x.png
+/Users/TungNS/Desktop/MapDemo/MapDemo/obj/iPhone/Release/optimized/
+/Users/TungNS/Desktop/MapDemo/MapDemo/bin/iPhone/Release/MapDemo.exe
+/Users/TungNS/Desktop/MapDemo/MapDemo/obj/iPhone/Release/MapDemo.exe

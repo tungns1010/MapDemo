@@ -1,0 +1,5 @@
+/Users/TungNS/Desktop/MapDemo/MapDemo/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.iOS.dll
+/Users/TungNS/Desktop/MapDemo/MapDemo/obj/iPhone/Release/mtouch-cache/64/Link/System.dll
+/Users/TungNS/Desktop/MapDemo/MapDemo/obj/iPhone/Release/mtouch-cache/64/Link/MapDemo.exe
+/Users/TungNS/Desktop/MapDemo/MapDemo/obj/iPhone/Release/mtouch-cache/64/Link/mscorlib.dll
+/Users/TungNS/Desktop/MapDemo/MapDemo/obj/iPhone/Release/mtouch-cache/64/Link/System.Core.dll
